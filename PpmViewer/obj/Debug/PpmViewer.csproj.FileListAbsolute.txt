@@ -1,0 +1,10 @@
+E:\VSProject\PpmViewer\PpmViewer\bin\Debug\PpmViewer.exe.config
+E:\VSProject\PpmViewer\PpmViewer\bin\Debug\PpmViewer.exe
+E:\VSProject\PpmViewer\PpmViewer\bin\Debug\PpmViewer.pdb
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.csprojAssemblyReference.cache
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.Form1.resources
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.Properties.Resources.resources
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.csproj.GenerateResource.cache
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.csproj.CoreCompileInputs.cache
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.exe
+E:\VSProject\PpmViewer\PpmViewer\obj\Debug\PpmViewer.pdb
